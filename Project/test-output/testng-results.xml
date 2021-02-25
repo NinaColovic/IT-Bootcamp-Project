@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="103958" started-at="2021-02-25T13:16:14 CET" finished-at="2021-02-25T13:17:58 CET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="103958" started-at="2021-02-25T13:16:14 CET" finished-at="2021-02-25T13:17:58 CET">
+      <class name="Tests.MealItemTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Tests.MealItemTest@3fd7a715]" name="setup" is-config="true" duration-ms="17573" started-at="2021-02-25T13:16:15 CET" finished-at="2021-02-25T13:16:32 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="AddMealToCartTesta()[pri:1, instance:Tests.MealItemTest@3fd7a715]" name="AddMealToCartTesta" duration-ms="18592" started-at="2021-02-25T13:16:32 CET" finished-at="2021-02-25T13:16:51 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddMealToCartTesta -->
+        <test-method status="PASS" signature="takeScreenShotOnFailureAndDeleteCookies(org.testng.ITestResult)[pri:0, instance:Tests.MealItemTest@3fd7a715]" name="takeScreenShotOnFailureAndDeleteCookies" is-config="true" duration-ms="1696" started-at="2021-02-25T13:16:51 CET" finished-at="2021-02-25T13:16:52 CET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=AddMealToCartTesta status=SUCCESS method=MealItemTest.AddMealToCartTesta()[pri:1, instance:Tests.MealItemTest@3fd7a715] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenShotOnFailureAndDeleteCookies -->
+        <test-method status="PASS" signature="AddMealToFavorite()[pri:5, instance:Tests.MealItemTest@3fd7a715]" name="AddMealToFavorite" duration-ms="22655" started-at="2021-02-25T13:16:53 CET" finished-at="2021-02-25T13:17:15 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddMealToFavorite -->
+        <test-method status="PASS" signature="takeScreenShotOnFailureAndDeleteCookies(org.testng.ITestResult)[pri:0, instance:Tests.MealItemTest@3fd7a715]" name="takeScreenShotOnFailureAndDeleteCookies" is-config="true" duration-ms="1401" started-at="2021-02-25T13:17:15 CET" finished-at="2021-02-25T13:17:17 CET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=AddMealToFavorite status=SUCCESS method=MealItemTest.AddMealToFavorite()[pri:5, instance:Tests.MealItemTest@3fd7a715] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenShotOnFailureAndDeleteCookies -->
+        <test-method status="PASS" signature="ClearCartTesta()[pri:8, instance:Tests.MealItemTest@3fd7a715]" name="ClearCartTesta" duration-ms="39565" started-at="2021-02-25T13:17:17 CET" finished-at="2021-02-25T13:17:56 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClearCartTesta -->
+        <test-method status="PASS" signature="takeScreenShotOnFailureAndDeleteCookies(org.testng.ITestResult)[pri:0, instance:Tests.MealItemTest@3fd7a715]" name="takeScreenShotOnFailureAndDeleteCookies" is-config="true" duration-ms="826" started-at="2021-02-25T13:17:56 CET" finished-at="2021-02-25T13:17:57 CET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClearCartTesta status=SUCCESS method=MealItemTest.ClearCartTesta()[pri:8, instance:Tests.MealItemTest@3fd7a715] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeScreenShotOnFailureAndDeleteCookies -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:Tests.MealItemTest@3fd7a715]" name="quit" is-config="true" duration-ms="1484" started-at="2021-02-25T13:17:57 CET" finished-at="2021-02-25T13:17:58 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- Tests.MealItemTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
